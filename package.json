@@ -4,8 +4,9 @@
   "description": "this is a new project for JS larning",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ananda"  : "json-server --watch ananda.json --port 2020"
   },
+
   "author": "Ananda",
   "license": "ISC",
   "dependencies": {
