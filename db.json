@@ -274,17 +274,6 @@
             "Twitter"   :"https://twitter.com",
             "Linkedin"  :"https://www.linkedin.com",
             "Email"     :"anandasaha484@gmail.com"
-        },
-        {
-            "id"        : "10",
-            "Name"      :"Ananda Kumar Saha",
-            "Gender"    :"Male",
-            "Skills"    :["Laravel Developer","React Developer"],
-            "Photo"     :"https://lfwf.io/uploads/studentProfile/thumb/1644677130.png",
-            "Facebook"  :"https://www.facebook.com/",
-            "Twitter"   :"https://twitter.com",
-            "Linkedin"  :"https://www.linkedin.com",
-            "Email"     :"anandasaha484@gmail.com"
         }
         
         ],
