@@ -1,29 +1,12 @@
 {
-    "students" : [
-        {
-            "id"    : 1,
-            "name"  : "Ananda",
-            "class" : "MERN"
-        },
-        {
-            "id"    : 2,
-            "name"  : "Ananda",
-            "class" : "MERN"
-        }
-    ],
-    "products" : [
-        {
-            "id"             : 1,
-            "Product Name"  : "Ananda",
-            "class"          : "MERN"
-        },
-        {
-            "id"             : 2,
-            "Product Name"  : "Ananda",
-            "class"          : "MERN"
-        }
-    ],
-"StudentsMark" : [
+    
+"Products"     : [
+{
+"Id" : "1"
+
+}
+],
+      "StudentsMark" : [
         {
             "id"  : "1",
             "Name":"Abu sayeed",
