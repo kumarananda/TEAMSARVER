@@ -2,7 +2,11 @@
     
 "Products"     : [
 {
-"Id" : "1"
+"TV" : [],
+"Freezer" : [],
+"PC" : [],
+"Laptop" : [],
+"Fan" : []
 
 }
 ],
