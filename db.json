@@ -2,13 +2,22 @@
     
 "Products"     : [
 {
-"TV" : [],
-"Freezer" : [],
-"PC" : [],
-"Laptop" : [],
-"Fan" : [],
+"TV" : []
+},
+{
+"Freezer" : []
+},
+{
+"PC" : []
+},
+{
+"Laptop" : []
+},
+{
+"Fan" : []
+},
+{
 "Mobile" : []
-
 }
 ],
       "StudentsMark" : [
