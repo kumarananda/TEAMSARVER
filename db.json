@@ -2,15 +2,15 @@
 
 "Products"     : [
 {
-"id" : 1,
+"id" : "TV",
 "TV" : []
 },
 {
-"id" : 2,
-"Freezer" : []
+"id" :  Freeze,
+"Freeze" : []
 },
 {
-"id" : 3,
+"id" : PC,
 "PC" : []
 },
 {
@@ -30,7 +30,7 @@
         {
             "id"  : "1",
             "Name":"Abu sayeed",
-            "Roll":"01",
+            "Roll":"1",
             "ClassN":"12",
             "Photo":"https://lfwf.io/uploads/studentProfile/thumb/1610832347.png",
             "Gender":"Male",
