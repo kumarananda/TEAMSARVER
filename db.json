@@ -8,11 +8,57 @@
     {
      "Id" : 1,
      "Brand" : "Samsung",
+     "Title" : "",
      "Modal" : "S3030",
-     "Size" : "22\"",
-     "Price" : "21000"
+     "Size" : "22 inch",
+     "Price" : "21000",
+     "Sale" : "19000",
+     "Photo" : "",
+     "Description" : ""
     },
     {
+     "Id" : 2,
+     "Brand" : "",
+     "Title" : "",
+     "Modal" : "S3030",
+     "Size" : "22 inch",
+     "Price" : "21000",
+     "Sale" : "19000",
+     "Photo" : "",
+     "Description" : ""
+    },
+    {
+     "Id" : 3,
+     "Brand" : "",
+     "Title" : "",
+     "Modal" : "S3030",
+     "Size" : "22 inch",
+     "Price" : "21000",
+     "Sale" : "19000",
+     "Photo" : "",
+     "Description" : ""
+    },
+    {
+     "Id" : 4,
+     "Brand" : "",
+     "Title" : "",
+     "Modal" : "S3030",
+     "Size" : "22 inch",
+     "Price" : "21000",
+     "Sale" : "19000",
+     "Photo" : "",
+     "Description" : ""
+    },
+    {
+     "Id" : 5,
+     "Brand" : "",
+     "Title" : "",
+     "Modal" : "S3030",
+     "Size" : "22 inch",
+     "Price" : "21000",
+     "Sale" : "19000",
+     "Photo" : "",
+     "Description" : ""
     }
    ]
   },
