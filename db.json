@@ -8,79 +8,164 @@
     {
      "Id" : 1,
      "Brand" : "Samsung",
-     "Title" : "",
-     "Modal" : "S3030",
-     "Size" : "22 inch",
-     "Price" : "21000",
-     "Sale" : "19000",
-     "Photo" : "",
-     "Description" : ""
+     "Title" : "Samsung HD Smart TV",
+     "Modal" : "T4500",
+     "Size" : "32″",
+     "Price" : "27500",
+     "Sale" : "24500",
+     "Photo" : "https://www.startech.com.bd/image/cache/catalog/television/samsung/t4500/t4500-01-228x228.jpg",
+     "Description" : ["Voice Assistant with One Remote Control", "32\" HD (1366 x 768) LED Display", "Multiple voice assistant", "Ultra Pix & HDR"]
     },
     {
      "Id" : 2,
-     "Brand" : "",
-     "Title" : "",
-     "Modal" : "S3030",
-     "Size" : "22 inch",
-     "Price" : "21000",
-     "Sale" : "19000",
-     "Photo" : "",
-     "Description" : ""
+     "Brand" : "Samsung",
+     "Title" : "Samsung T5500 43 Inch FHD Smart Television",
+     "Modal" : "T5500",
+     "Size" : "43 inch",
+     "Price" : "36000",
+     "Sale" : "32000",
+     "Photo" : "https://www.startech.com.bd/image/cache/catalog/television/samsung/t5500/samsung-t5500-43-inch-fhd-smart-television-01-228x228.jpg",
+     "Description" : ["Full HD Resolution ","Smart Hub & One Remote Control", "Multiple Voice Assistants ", "Home cloud & Auto Hotspot"]
     },
     {
      "Id" : 3,
-     "Brand" : "",
-     "Title" : "",
-     "Modal" : "S3030",
-     "Size" : "22 inch",
-     "Price" : "21000",
-     "Sale" : "19000",
-     "Photo" : "",
-     "Description" : ""
+     "Brand" : "LG PRO",
+     "Title" : "LG PRO 24″ Smart led TV",
+     "Modal" : "LG PRO",
+     "Size" : "24 inch",
+     "Price" : "৳ 12,500",
+     "Sale" : "৳ 11,500",
+     "Photo" : "https://static-01.daraz.com.bd/p/mdc/23c7c213d7fbcff5b4f54680f8c1171f.jpg",
+     "Description" : ["Ram - 512MB, Rom - 4GB", "Android Version--9.0 ","Aspect Ratio - 16.9 Format","Video Format FULL HD 4K"]
     },
     {
      "Id" : 4,
-     "Brand" : "",
-     "Title" : "",
-     "Modal" : "S3030",
+     "Brand" : "LG",
+     "Title" : "LG 42″ (42LB623) LED Television",
+     "Modal" : "42LB623",
      "Size" : "22 inch",
-     "Price" : "21000",
-     "Sale" : "19000",
-     "Photo" : "",
-     "Description" : ""
-    },
-    {
-     "Id" : 5,
-     "Brand" : "",
-     "Title" : "",
-     "Modal" : "S3030",
-     "Size" : "22 inch",
-     "Price" : "21000",
-     "Sale" : "19000",
-     "Photo" : "",
-     "Description" : ""
+     "Price" : "61000",
+     "Sale" : "58000",
+     "Photo" : "https://static-01.daraz.com.bd/p/90f4dda23141f218711b10ea724bbdb6.png",
+     "Description" : ["Ram - 512MB, Rom - 4GB", "Android Version--9.0 ","Aspect Ratio - 16.9 Format","Video Format FULL HD 4K"]
     }
    ]
   },
   {
    "id" :  "Freeze",
    "category" : "Freeze",
-   "Freeze" : []
-  },
-  {
-   "id" : "PC",
-   "category" : "PC",
-   "PC" : []
+   "Freeze" : [
+    {
+        "Id" : 1,
+        "Brand" : "Walton",
+        "Title" : "Walton Direct Cool Refrigerator WFA-1N3-ELEX-XX",
+        "Modal" : "WFA-1N3-ELEX-XX",
+        "Price" : " 23150",
+        "Sale" : "22150",
+        "Photo" : "https://www.familyneeds.net/images/products/walton-direct-cool-refrigerator-wfa-1n3-elex-xx1633841393.jpg",
+        "Description" : [
+            "Gross Volume (Outer Dimension, Manufacturer declared)",
+            "Net Volume 175 Ltr",
+            "Net Weight 45 ± 2 Kg",
+            "Gross Weight 50 ± 2 Kg"
+        ]
+       },
+       {
+        "Id" : 2,
+        "Brand" : "Walton",
+        "Title" : "Walton Direct Cool Refrigerator WFA-2D4-GDEH-XX-P",
+        "Modal" : "WFA-2D4-GDEH-XX-P",
+        "Price" : "29500",
+        "Sale" : "28500",
+        "Photo" : "https://www.familyneeds.net/images/products/walton-direct-cool-refrigerator-wfa-2d4-gdeh-xx-p1633842514.jpg",
+        "Description" : [
+            "Gross Volume (Outer Dimension, Manufacturer declared) : 244 Ltr.",
+            "Net Volume : 220 Ltr."
+            
+        ]
+       },
+       {
+        "Id" : 3,
+        "Brand" : "Singer",
+        "Title" : " Refrigerator Glass 260 Liter Singer NutriLock-Black",
+        "Modal" : "SRREF-SS500-FBDS260Z-RG",
+        "Price" : "38500",
+        "Sale" : "36500",
+        "Photo" : "https://singerbd.com/pub/media/catalog/product/cache/6b291df8afd04bab339803e1936b8708/f/b/fbds260z-rg-thumb.jpg",
+        "Description" : [
+            "260 Ltr Capacity;",
+            "50:50 Space Compertment Ratio;",
+            "Low power consumption;",
+            "Nutilock & Freshology will keep your food fresh up to 20 Days;",
+            "Built-in Stabilizer with 135V Running",
+            "Odour Filter | Bottle Holder",
+            "10 Year Compressor & 2 Year Spare Parts Warranty"
+        ]
+       },
+       {
+        "Id" : 4,
+        "Brand" : "Singer",
+        "Title" : " Refrigerator Glass 231 Liter Singer NutriLock-Black ",
+        "Modal" : "SRREF-SS500-FTDS230Z-BG",
+        "Price" : "35,490",
+        "Sale" : "34,000",
+        "Photo" : "https://singerbd.com/pub/media/catalog/product/cache/6b291df8afd04bab339803e1936b8708/s/s/ss500-ftds230z-bg-thumb.jpg",
+        "Description" : [
+        "231 Ltr Capacity;",
+        "Low power consumption;",
+        "Nutilock & Freshology will keep your food fresh up to 20 Days;",
+        "Built-in Stabilizer with 135V Running",
+        "Odour Filter | Bottle Holder",
+        "10 Year Compressor & 2 Year Spare Parts Warranty"
+        ]
+    }
+   ]
   },
   {
    "id" : "Laptop",
    "category" : "Laptop",
-   "Laptop" : []
-  },
-  {
-   "id" : "Fan",
-   "category" : "Fan",
-   "Fan" : []
+   "Laptop" : [
+       {
+        "Id" : 1,
+        "Brand" : "AVITA",
+        "Title" : "Avita Magus Celeron N3350 12.2\" FHD Laptop Charcoal Grey",
+        "Modal" : "NS12T5BD006P",
+        "Price" : "23500",
+        "Sale" : "22500",
+        "Photo" : "https://www.startech.com.bd/image/cache/catalog/laptop/avita/megus/magus-grey-01-500x500.jpg",
+        "Description" : [
+            {
+                "Processor" : "Intel Celeron Processor N3350 (1.10 GHz-2.40 GHz 2 MB Cache Cores: 2 Threads: 2)",
+                "Display" : "12.2″ TFT, (1920 x 1200) IPS Touch Screen",
+                "Memory" : "4GB RAM",
+                "Storage" : "64GB eMMC" ,
+                "Graphics" : "Intel HD Graphics 500"
+            }
+        ]
+   
+       },
+       {
+        "Id" : 2,
+        "Brand" : "Asus",
+        "Title" : "Asus Vivobook X515MA Celeron N4020 15.6″ FHD Laptop",
+        "Modal" : "Vivobook X515MA",
+        "Price" : "40000",
+        "Sale" : "38500",
+        "Photo" : "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-x515ma/vivobook-x515ma-01-228x228.jpg",
+        "Description" : [
+            {
+                "Processor" : "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+                "Display" : "15.6 FHD (1920x1080) Display",
+                "Memory" : "4GB DDR4 RAM",
+                "Storage" : "1TB HDD" ,
+                "Graphics" : "Intel HD Graphics 500"
+            }
+        ]
+       },
+       {
+
+       }
+   ]
   },
   {
    "id" : "Mobile",
