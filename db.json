@@ -2,11 +2,9 @@
 
  "Products"     : [
   {
-   "id" : "1",
-   "category" : "TV",
-   "TV" : [
-    {
+    
      "Id" : 1,
+     "category" : "TV",
      "Brand" : "Samsung",
      "Title" : "Samsung HD Smart TV",
      "Modal" : "T4500",
@@ -18,6 +16,7 @@
     },
     {
      "Id" : 2,
+     "category" : "TV",
      "Brand" : "Samsung",
      "Title" : "Samsung T5500 43 Inch FHD Smart Television",
      "Modal" : "T5500",
@@ -29,6 +28,7 @@
     },
     {
      "Id" : 3,
+     "category" : "TV",
      "Brand" : "LG PRO",
      "Title" : "LG PRO 24″ Smart led TV",
      "Modal" : "LG PRO",
@@ -40,6 +40,7 @@
     },
     {
      "Id" : 4,
+     "category" : "TV",
      "Brand" : "LG",
      "Title" : "LG 42″ (42LB623) LED Television",
      "Modal" : "42LB623",
@@ -49,14 +50,12 @@
      "Photo" : "https://static-01.daraz.com.bd/p/90f4dda23141f218711b10ea724bbdb6.png",
      "Description" : ["Ram - 512MB, Rom - 4GB", "Android Version--9.0 ","Aspect Ratio - 16.9 Format","Video Format FULL HD 4K"]
     }
-   ]
-  },
-  {
-   "id" :  "2",
-   "category" : "Freeze",
-   "Freeze" : [
+   ],
+
+"Freeze" : [
     {
         "Id" : 1,
+        "category" : "Freeze",
         "Brand" : "Walton",
         "Title" : "Walton Direct Cool Refrigerator WFA-1N3-ELEX-XX",
         "Modal" : "WFA-1N3-ELEX-XX",
@@ -72,6 +71,7 @@
        },
        {
         "Id" : 2,
+        "category" : "Freeze",
         "Brand" : "Walton",
         "Title" : "Walton Direct Cool Refrigerator WFA-2D4-GDEH-XX-P",
         "Modal" : "WFA-2D4-GDEH-XX-P",
@@ -86,6 +86,7 @@
        },
        {
         "Id" : 3,
+        "category" : "Freeze",
         "Brand" : "Singer",
         "Title" : " Refrigerator Glass 260 Liter Singer NutriLock-Black",
         "Modal" : "SRREF-SS500-FBDS260Z-RG",
@@ -104,6 +105,7 @@
        },
        {
         "Id" : 4,
+        "category" : "Freeze",
         "Brand" : "Singer",
         "Title" : " Refrigerator Glass 231 Liter Singer NutriLock-Black ",
         "Modal" : "SRREF-SS500-FTDS230Z-BG",
@@ -111,66 +113,48 @@
         "Sale" : "34,000",
         "Photo" : "https://singerbd.com/pub/media/catalog/product/cache/6b291df8afd04bab339803e1936b8708/s/s/ss500-ftds230z-bg-thumb.jpg",
         "Description" : [
-        "231 Ltr Capacity;",
-        "Low power consumption;",
-        "Nutilock & Freshology will keep your food fresh up to 20 Days;",
-        "Built-in Stabilizer with 135V Running",
-        "Odour Filter | Bottle Holder",
-        "10 Year Compressor & 2 Year Spare Parts Warranty"
+            "231 Ltr Capacity;",
+            "Low power consumption;",
+            "Nutilock & Freshology will keep your food fresh up to 20 Days;",
+            "Built-in Stabilizer with 135V Running",
+            "Odour Filter | Bottle Holder",
+            "10 Year Compressor & 2 Year Spare Parts Warranty"
         ]
     }
-   ]
-  },
-  {
-   "id" : "3",
-   "category" : "Laptop",
-   "Laptop" : [
+   ],
+"Laptop" : [
        {
         "Id" : 1,
+        "category" : "Laptop",
         "Brand" : "AVITA",
         "Title" : "Avita Magus Celeron N3350 12.2\" FHD Laptop Charcoal Grey",
         "Modal" : "NS12T5BD006P",
         "Price" : "23500",
         "Sale" : "22500",
         "Photo" : "https://www.startech.com.bd/image/cache/catalog/laptop/avita/megus/magus-grey-01-500x500.jpg",
-        "Description" : [
-            {
-                "Processor" : "Intel Celeron Processor N3350 (1.10 GHz-2.40 GHz 2 MB Cache Cores: 2 Threads: 2)",
-                "Display" : "12.2″ TFT, (1920 x 1200) IPS Touch Screen",
-                "Memory" : "4GB RAM",
-                "Storage" : "64GB eMMC" ,
-                "Graphics" : "Intel HD Graphics 500"
-            }
-        ]
+        "Processor" : "Intel Celeron Processor N3350 (1.10 GHz-2.40 GHz 2 MB Cache Cores: 2 Threads: 2)",
+        "Display" : "12.2″ TFT, (1920 x 1200) IPS Touch Screen",
+        "Memory" : "4GB RAM",
+        "Storage" : "64GB eMMC" ,
+        "Graphics" : "Intel HD Graphics 500"
    
        },
        {
         "Id" : 2,
+        "category" : "Laptop",
         "Brand" : "Asus",
         "Title" : "Asus Vivobook X515MA Celeron N4020 15.6″ FHD Laptop",
         "Modal" : "Vivobook X515MA",
         "Price" : "40000",
         "Sale" : "38500",
         "Photo" : "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-x515ma/vivobook-x515ma-01-228x228.jpg",
-        "Description" : [
-            {
-                "Processor" : "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
-                "Display" : "15.6 FHD (1920x1080) Display",
-                "Memory" : "4GB DDR4 RAM",
-                "Storage" : "1TB HDD" ,
-                "Graphics" : "Intel HD Graphics 500"
-            }
-        ]
-       },
-       {
-
+        "Processor" : "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+        "Display" : "15.6 FHD (1920x1080) Display",
+        "Memory" : "4GB DDR4 RAM",
+        "Storage" : "1TB HDD" ,
+        "Graphics" : "Intel HD Graphics 500"
        }
+
    ]
-  },
-  {
-   "id" : "4",
-   "category" : "Mobile",
-   "Mobile" : []
-  }
- ]
+
 }

@@ -4,7 +4,7 @@
   "description": "this is a new project for JS larning",
   "main": "index.js",
   "scripts": {
-    "ananda"  : "json-server --watch db.json --port 2020"
+    "ananda"  : "json-server --watch db.json --port 2021"
   },
 
   "author": "Ananda",
